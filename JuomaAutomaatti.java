@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class JuomaAutomaatti {
 	//Konstruktori
-	//testi
+	//testi2
 	public JuomaAutomaatti () {
 		this.teetä=50;
 		this.kahvia=50;
